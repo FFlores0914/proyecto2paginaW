@@ -128,6 +128,7 @@ body {
     .header_menu_link{
         justify-content: center;
         align-items: center;
+        font-size: auto;
     }
 
     .presentacion{
