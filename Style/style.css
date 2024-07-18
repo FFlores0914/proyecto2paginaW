@@ -55,6 +55,7 @@ body {
 .presentacion_contenido_titulo{
     font-size: 2.25rem;
     font-family: var(--fuente-montserrat);
+    text-align: justify;
 }
 .titulo-destaque {
     color:var(--color-terciario);
