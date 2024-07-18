@@ -26,7 +26,7 @@ body {
 .header_menu{
     display: flex;
     gap: 80PX;
-    align-items: center;
+    
 }
 
 .header_menu_link{
@@ -127,6 +127,7 @@ body {
 
     .header_menu_link{
         justify-content: center;
+        align-items: center;
     }
 
     .presentacion{
