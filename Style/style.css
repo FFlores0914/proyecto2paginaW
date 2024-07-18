@@ -26,6 +26,7 @@ body {
 .header_menu{
     display: flex;
     gap: 80PX;
+    align-items: center;
 }
 
 .header_menu_link{
@@ -34,7 +35,7 @@ body {
     font-weight: 600;
     color: var(--color-terciario);
     text-decoration: none;
-    align-items: center;
+    
 
 }
 
