@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root{
-    --color-primario:rgb(8,11,8,0.5);
+    --color-primario:#708090;
     --color-secundario: rgb(31,5,5);
     --color-terciario: #22d4fd;
     --color-hover: #272727;
